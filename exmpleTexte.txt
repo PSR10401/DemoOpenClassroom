@@ -1,2 +1,1 @@
 Ce est un commentiare dans le fichier "exempleTexte.txt"
-Un deuxième commentaire pour tester l'historique en local
